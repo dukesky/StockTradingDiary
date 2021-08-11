@@ -8,6 +8,8 @@ The reason I write this note is to tracking my thought through the stock market.
 
 I will list some [to-do](#To-Do-List) for me in the comming months
 
+I also note down [what I though daily](##Trading-History) with market performance
+
 炒股目标： 一年内Robinhood资产增加50%
 
 - My total return
