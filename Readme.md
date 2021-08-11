@@ -12,10 +12,10 @@ I will list some [to-do](#To-Do-List) for me in the comming months
 
 - My total return
 
-![return](imgs/ret0810.png)
+![return](imgs/Ret0810.png)
 - My updated Profolio
 
-![Profolio](imgs/prof0810.png)
+![Profolio](imgs/Prof0810.png)
 
 ## To Do List
 
