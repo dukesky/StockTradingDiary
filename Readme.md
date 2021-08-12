@@ -27,7 +27,7 @@ I also note down [what I though daily](#Trading-History) with market performance
     * NIO -20@[50-55]
     * BILI -10@[95-100]
     * BABA -10@[250] 期权250 call 6-8 止盈
-* 持续卖WISH Call 收回本金
+* 持续卖WISH Call 收回本金,时机合理卖出 （达到盈利）
 * 纳斯达克指数补仓位置 [14330-14340] 回调5%,[13810-13820] 回调8%   QQQ [348-350], [335-337]
 
 
@@ -49,3 +49,7 @@ I also note down [what I though daily](#Trading-History) with market performance
 ---
 2021/08/11
 
+UVXY按计划止损离场，波动太难了，以后少碰，做空改做SQQQ.
+
+
+---
