@@ -8,6 +8,8 @@ The reason I write this note is to tracking my thought through the stock market.
 
 I will list some [to-do](#To-Do-List) for me in the comming months
 
+I will list my [estimate value](#Estimate-Value) for popular stocks
+
 I also note down [what I though daily](#Trading-History) with market performance
 
 炒股目标： 一年内Robinhood资产增加50%
@@ -30,6 +32,15 @@ I also note down [what I though daily](#Trading-History) with market performance
     * TAL, EH, QTT 被套，等着吧
 * 持续卖WISH Call 收回本金
 * 纳斯达克指数补仓位置 [14330-14340] 回调5%,[13810-13820] 回调8%   QQQ [348-350], [335-337]
+
+## Estimate Value
+
+|\# |Stock |Ticker | Value (next quarter) | Support | Reason | My Join Price| My Target Price |
+|---|----|---|---|---|---|---|----|
+|1| Nasdak | .Nas | 
+|2| Micron | MU | | [70-74.5],[60-64] |
+
+
 
 
 ## Trading History
