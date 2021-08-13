@@ -8,6 +8,8 @@ The reason I write this note is to tracking my thought through the stock market.
 
 I will list some [to-do](#To-Do-List) for me in the comming months
 
+I will list my [estimate value](#Estimate-Value) for popular stocks
+
 I also note down [what I though daily](#Trading-History) with market performance
 
 炒股目标： 一年内Robinhood资产增加50%
@@ -30,6 +32,15 @@ I also note down [what I though daily](#Trading-History) with market performance
     * TAL, EH, QTT 被套，等着吧
 * 持续卖WISH Call 收回本金
 * 纳斯达克指数补仓位置 [14330-14340] 回调5%,[13810-13820] 回调8%   QQQ [348-350], [335-337]
+
+## Estimate Value
+
+|\# |Stock |Ticker | Value (next quarter) | Support | Reason | My Join Price| My Target Price |
+|---|----|---|---|---|---|---|----|
+|1| Nasdak | .Nas | 
+|2| Micron | MU | | [70-74.5],[60-64] |
+
+
 
 
 ## Trading History
@@ -56,8 +67,12 @@ UVXY 打到止损退出，之后少碰波动指数，做空考虑SQQQ
 
 ---
 
-2021/08/21
+2021/08/12
 
-尽量不要左侧交易成长股，除非对股票十分了解，长线持有
+整体大盘继续走高，但是交易量一直降低，等待未来可能会有的大动作。经济复苏股，科技股都在走高，我的持仓在走低，主要中概股 BABA, BILI, NIO, 感觉今年都难以回暖。
+
+Wish出财报，跌回最低点@7.5，回本遥遥无期
+
+MRNA 这几个月涨了好几倍，看得十分眼红，但是不熟悉医疗领域，还是不要入场了
 
 ---
