@@ -37,9 +37,13 @@ I also note down [what I though daily](#Trading-History) with market performance
 
 |\# |Stock |Ticker | Value (next quarter) | Support | Reason | My Join Price| My Target Price |
 |---|----|---|---|---|---|---|----|
-|1| Nasdak | .Nas | 
-|2| Micron | MU | | [70-74.5],[60-64] |
-
+|| Nasdak | .Nas | 
+|| Airbnb| ABNB |   | [129-138], [140-142], [152-157] | |
+|| Apple| AAPL |   | [120-137],  | |
+|| ASML Holding| ASML | | [700-710], [664-691], [614-652] || [634-650]@%2, [586-593]@%4| 
+|| Disney| DIS | | [183-190], [167-168], [144-154] | |
+|| Micron | MU | | [70-74.5], [60-64] |
+|| Palantir| PLTR | [26-31] | [21-22], [17.9-20.1], [15-16] | |
 
 
 
