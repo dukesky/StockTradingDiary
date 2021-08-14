@@ -37,14 +37,17 @@ I also note down [what I though daily](#Trading-History) with market performance
 
 |\# |Stock |Ticker | Value (next quarter) | Support | Reason | My Join Price| My Target Price |
 |---|----|---|---|---|---|---|----|
-|| Nasdak | .Nas | 
+|| Nasdak | .NDX | 
+|| S&P 500 | .SPX |
 || Airbnb| ABNB |   | [129-138], [140-142], [152-157] | |
-|| Apple| AAPL |   | [120-137],  | |
-|| ASML Holding| ASML | | [700-710], [664-691], [614-652] || [634-650]@%2, [586-593]@%4| 
+|| Apple| AAPL | [138-158]  | [122-127],[129-132.5],[133.6-137.2]  | | [135-136]2%
+|| ASML Holding| ASML | | [700-710], [664-691], [614-652] || [634-650]2%, [586-593]4%| 
+|| Catepillar| CAT | [232-263] | [158-165], [167-174], [177-185], [190-202] | | [193]2%, [173]2%, [150]4%
 || Disney| DIS | | [183-190], [167-168], [144-154] | |
 || Micron | MU | | [70-74.5], [60-64] |
+|| Navdia| NVDA | [189-213] | [172.6-180.2], [162.7-163] | | [163]2% 
 || Palantir| PLTR | [26-31] | [21-22], [17.9-20.1], [15-16] | |
-
+|| Walmart| WMT | [139.5-142.8] | [135.7-138.4], [128-134] | | [132]2%
 
 
 ## Trading History
