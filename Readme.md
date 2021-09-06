@@ -1,4 +1,4 @@
-# Stock Market Thing (我的股市思考)
+# Stock Market Trading Daily (我的股票交易日记)
 
 ## Intro
 
@@ -12,9 +12,9 @@ I will list my [estimate value](#Estimate-Value) for popular stocks
 
 I also note down [what I though daily](#Trading-History) with market performance
 
-炒股目标： 一年内Robinhood资产增加50%
+炒股目标： 一年内(2022/08)Robinhood资产增加50%
 
-- My total return (2021/08/10)
+- My total return (2021/09/06)
 
 ![return](imgs/Ret0810.png)
 
@@ -24,7 +24,6 @@ I also note down [what I though daily](#Trading-History) with market performance
 
 ## To Do List
 
-* 持续关注基建股 IFRA@[34-36]
 * 遇到反弹减仓中概股，不再加仓中概股
     * NIO -20@[50-55]
     * BILI -10@[95-100]
@@ -134,5 +133,10 @@ MRNA 这几个月涨了好几倍，看得十分眼红，但是不熟悉医疗领
 持仓中概股持续亏损，昨日出现触底形象，不知后市如何
 
 
+
+---
+2021/09/02
+
+关注股市不多，最近大盘一直增长，也不知加仓什么股票，美联储继续放水，到年底利率应该比较稳定
 
 ---
