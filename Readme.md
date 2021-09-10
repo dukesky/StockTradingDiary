@@ -37,7 +37,8 @@ I also note down [what I though daily](#Trading-History) with market performance
 |\# |Stock |Ticker | Value (next quarter) | Support | Reason | My Join Price| My Target Price |
 |---|----|---|---|---|---|---|----|
 || Nasdak | .NDX | |[14330-14340],[13810-13820]||
-|| S&P 500 | .SPX | | [4315-4320], [4215-4220], [4020-4070] ||
+|| S&P 500 | .SPX | | [4355-4360], [4240-4245], [4020-4070] ||
+|| Dow Jones | .DJI | | [34730-34735], [34172-34177] ||
 || Airbnb| ABNB |   | [129-138], [140-142], [152-157] | |
 || AMD | AMD | [97-112] | [112-113], [108.4-110], [102.7-106] | |
 || Apple| AAPL | [138-158]  | [122-127],[129-132.5],[133.6-137.2], [144.5-150.6]  | | [135-136]2%
