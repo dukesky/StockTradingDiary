@@ -10,6 +10,8 @@ I will list some [to-do](#To-Do-List) for me in the comming months
 
 I will list my [estimate value](#Estimate-Value) for popular stocks
 
+I will list some [strategy note](#Note) for me to study and understand my invest strategy 
+
 I also note down [what I though daily](#Trading-History) with market performance
 
 炒股目标： 一年内(2022/08)Robinhood资产增加50%
@@ -61,10 +63,12 @@ I also note down [what I though daily](#Trading-History) with market performance
 || Visa | V | | [206-217]| | [217]2% [207]4%
 || Walmart| WMT | [139.5-142.8] | [135.7-138.4], [128-134] | | [132]2%
 
-## 笔记
+## Note
+- [复盘计划](#复盘计划)
+- [我的投资战略](#我的投资战略)
+- [投资账户](#投资账户)
 
-
-**复盘计划**
+### 复盘计划
 
 复盘为了总结每日得失，重点是
 1. 看经济新闻，了解时政热点
@@ -76,6 +80,36 @@ I also note down [what I though daily](#Trading-History) with market performance
     * 持仓股
         * 结构，技术面， 新闻。基本面
 5. 更新交易计划，做笔记
+
+
+### 我的投资战略
+1. 如果对公司技术/前景有顾虑/不看好,绝对不投资
+2. 如果觉得公司不道德/不符合我的观念，绝对不投资
+3. 投资坚持左侧交易，投资之前先确定要加的所以仓位，然后分配为 20%，30%， 50%， 在建仓时就要确认需要买入多少。
+    1. 20% 在第一个支撑/关键点， 在70%概率能盈利的地方（自己估计）
+    2. 30% 在第二个关键点， 在90%概率盈利的地方
+    3. 50% 在 110%概率盈利的地方（基本达不到的地方）
+    4. 基本面发生变化，需要时果断离场（难）
+4. 每次买入的同时要必须设定止损位置（对于中期投资，长期投资思考什么情况会止损离场）
+5. 冲动买入/怕低价失去赶紧买不可取，我做的是中/长期投资
+6. 要经常关注股票，但买入一定要少，这个很难，还在学习，巴菲特说过，如果一生只能买入三次股票，人们都会赚钱，学习这种方法。
+
+
+每次买入前要check投资战略
+
+
+### 投资账户
+1. *Roobinhood*
+- **进行长期投资**
+- 买入大盘指数
+- 不买入短期要卖出的股票
+- 做一些期权
+2. *Vanduard*
+- 长短期股票都买
+- 可以买一些小/未来投机股票
+3. *Wealthfront*
+- 定期投钱
+- 不管
 
 ## Trading History
 ----
@@ -180,5 +214,10 @@ V 217 3%
 2021/09/21
 
 大盘继昨日暴跌后，今天有所缓和，没有继续下跌，开盘拉升之后又下跌，收盘在昨日收盘点数。感觉多空拉锯，等明日的美联储决议
+
+---
+
+2021/09/22
+
 
 ---
